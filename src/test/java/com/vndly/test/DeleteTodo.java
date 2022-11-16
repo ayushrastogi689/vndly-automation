@@ -7,6 +7,7 @@ public class DeleteTodo {
 	@Test
 	public void deleteTodo() {
 		//your code here
+		Dog bruno = new Dog();
 	}
 
 }
